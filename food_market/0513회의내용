@@ -1,0 +1,71 @@
+프로젝트명
+food_market
+
+초기 패키지명 설정
+com.team3.food_market
+
+
+com.team3.product
+com.team3.product_img
+com.team3.category
+com.team3.member
+com.team3.admin
+com.team3.cs(ask , cs_board)
+com.team3.cart
+com.team3.order
+
+ex)
+com.team3.product.dao
+
+url 주소값
+ex)
+
+메인페이지
+http://localhost:8080/food_market/main
+
+main.jsp
+
+상품페이지
+http://localhost:8080/food_market/product/*
+
+멤버페이지
+http://localhost:8080/food_market/member/*
+
+관리자페이지
+http://localhost:8080/food_market/admin/*
+
+장바구니페이지
+http://localhost:8080/food_market/cart/*
+
+결제페이지
+http://localhost:8080/food_market/order/*
+
+고객센터페이지
+http://localhost:8080/food_market/cs/*
+
+
+폴더명
+ WebContent/WEB-INF/views/ 폴더명
+main
+member
+admin
+product
+cart
+order
+cs
+
+변수명은 db 컬럼명 그대로 똑같이 사용하기
+추가되거나 변경될 시 톡방에 바로 알려주기
+
+깃허브 이용시에 미리 물어보고 하기 다른멤버 동의받고하기
+
+설정값
+
+이클립스 버젼 4.12이상이면 동일
+jdk jre 1.8.0_131 default 3번째 고정
+mysql 5.1.47
+mybatis 3.4.1
+
+
+
+

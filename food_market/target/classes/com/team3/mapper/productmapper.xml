@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+    PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+    "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+    
+<mapper namespace="com.team3.mapper.productmapper">
+
+	<select id="selectpro" resultType="com.team3.product.dto.ProductDTO">
+		SELECT product_id, product_name, product_price, product_desc, product_url 
+			from tbl_product order by product_id
+	</select>
+	
+	<select id="detailproduct" resultType="com.team3.product.dto.ProductDTO">
+		SELECT product_id, product_name, product_price, product_desc, product_url 
+			from tbl_product
+			where product_id = #{product_id}
+	</select>
+	
+</mapper>

@@ -1,0 +1,16 @@
+데이터베이스명 producttest
+테이블: 
+
+mysql> create database projecttest;
+Query OK, 1 row affected (0.01 sec)
+
+mysql> use projecttest;
+Database changed
+mysql> CREATE TABLE tbl_product(
+    -> product_id int primary key AUTO_INCREMENT,
+    -> product_name varchar(30),
+    -> product_price int,
+    -> product_desc varchar(30),
+    -> product_url varchar(30),
+    -> productphoto varchar(30)
+    -> );
