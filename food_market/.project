@@ -44,4 +44,71 @@
 		<nature>org.eclipse.wst.common.modulecore.ModuleCoreNature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/webapp/resources/about-us.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/about-us.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/assets</name>
+			<type>2</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/assets</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/blog-details.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/blog-details.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/blog.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/blog.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/cart.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/cart.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/checkout.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/checkout.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/contact.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/contact.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/index.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/index.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/login.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/login.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/product-details.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/product-details.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/register.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/register.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/shop-grid-view-5-col.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/shop-grid-view-5-col.html</location>
+		</link>
+		<link>
+			<name>src/main/webapp/resources/wishlist.html</name>
+			<type>1</type>
+			<location>C:/Users/ITWILL/Documents/카카오톡 받은 파일/neha-free-minimalist-ecommerce-bootstrap-4-template/neha/wishlist.html</location>
+		</link>
+	</linkedResources>
 </projectDescription>
