@@ -6,17 +6,17 @@
 <head>
 	<title>main</title>
 		<!-- all css here -->
-        <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="../assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="../assets/css/animate.css">
-        <link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="../assets/css/slinky.min.css">
-        <link rel="stylesheet" href="../assets/css/meanmenu.min.css">
-        <link rel="stylesheet" href="../assets/css/slick.css">
-        <link rel="stylesheet" href="../assets/css/ionicons.min.css">
-        <link rel="stylesheet" href="../assets/css/bundle.css">
-        <link rel="stylesheet" href="../assets/css/style.css">
-        <link rel="stylesheet" href="../assets/css/responsive.css">
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="assets/css/animate.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="assets/css/slinky.min.css">
+        <link rel="stylesheet" href="assets/css/meanmenu.min.css">
+        <link rel="stylesheet" href="assets/css/slick.css">
+        <link rel="stylesheet" href="assets/css/ionicons.min.css">
+        <link rel="stylesheet" href="assets/css/bundle.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 <body>
 <!--[if lt IE 8]>
