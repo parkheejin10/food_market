@@ -10,21 +10,21 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <!-- Favicon -->
 <link rel="shortcut icon" type="image/x-icon"
-	href="../assets/img/favicon.png">
+	href="../resources/assets/img/favicon.png">
 
 <!-- all css here -->
-<link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/css/magnific-popup.css">
-<link rel="stylesheet" href="../assets/css/animate.css">
-<link rel="stylesheet" href="../assets/css/owl.carousel.min.css">
-<link rel="stylesheet" href="../assets/css/slinky.min.css">
-<link rel="stylesheet" href="../assets/css/meanmenu.min.css">
-<link rel="stylesheet" href="../assets/css/slick.css">
-<link rel="stylesheet" href="../assets/css/ionicons.min.css">
-<link rel="stylesheet" href="../assets/css/bundle.css">
-<link rel="stylesheet" href="../assets/css/style.css">
-<link rel="stylesheet" href="../assets/css/responsive.css">
-<script src="../assets/js/vendor/modernizr-2.8.3.min.js"></script>
+<link rel="stylesheet" href="../resources/assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="../resources/assets/css/magnific-popup.css">
+<link rel="stylesheet" href="../resources/assets/css/animate.css">
+<link rel="stylesheet" href="../resources/assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="../resources/assets/css/slinky.min.css">
+<link rel="stylesheet" href="../resources/assets/css/meanmenu.min.css">
+<link rel="stylesheet" href="../resources/assets/css/slick.css">
+<link rel="stylesheet" href="../resources/assets/css/ionicons.min.css">
+<link rel="stylesheet" href="../resources/assets/css/bundle.css">
+<link rel="stylesheet" href="../resources/assets/css/style.css">
+<link rel="stylesheet" href="../resources/assets/css/responsive.css">
+<script src="../resources/assets/js/vendor/modernizr-2.8.3.min.js"></script>
 
 <script	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <!-- daum 도로명주소 찾기 api -->
@@ -365,7 +365,7 @@ margin-left: 7px;
 						<ul>
 							<li class="single-product-cart">
 								<div class="cart-img">
-									<a href="#"><img src="../assets/img/cart/1.jpg" alt=""></a>
+									<a href="#"><img src="../resources/assets/img/cart/1.jpg" alt=""></a>
 								</div>
 								<div class="cart-title">
 									<h3>
@@ -379,7 +379,7 @@ margin-left: 7px;
 							</li>
 							<li class="single-product-cart">
 								<div class="cart-img">
-									<a href="#"><img src="../assets/img/cart/2.jpg" alt=""></a>
+									<a href="#"><img src="../resources/assets/img/cart/2.jpg" alt=""></a>
 								</div>
 								<div class="cart-title">
 									<h3>
@@ -393,7 +393,7 @@ margin-left: 7px;
 							</li>
 							<li class="single-product-cart">
 								<div class="cart-img">
-									<a href="#"><img src="../assets/img/cart/3.jpg" alt=""></a>
+									<a href="#"><img src="../resources/assets/img/cart/3.jpg" alt=""></a>
 								</div>
 								<div class="cart-title">
 									<h3>
@@ -467,23 +467,23 @@ margin-left: 7px;
 						<div class="cur-lang-acc-title">
 							<h4>
 								Language: <span><img
-									src="../assets/img/icon-img/english.png" alt=""> English
+									src="../resources/assets/img/icon-img/english.png" alt=""> English
 								</span>
 							</h4>
 						</div>
 						<div class="cur-lang-acc-dropdown">
 							<ul>
 								<li><a href="#"><img
-										src="../assets/img/icon-img/english.png" alt=""> English
+										src="../resources/assets/img/icon-img/english.png" alt=""> English
 								</a></li>
 								<li><a href="#"><img
-										src="../assets/img/icon-img/es.png" alt=""> spanish </a></li>
+										src="../resources/assets/img/icon-img/es.png" alt=""> spanish </a></li>
 								<li><a href="#"><img
-										src="../assets/img/icon-img/fr.png" alt=""> french </a></li>
+										src="../resources/assets/img/icon-img/fr.png" alt=""> french </a></li>
 								<li><a href="#"><img
-										src="../assets/img/icon-img/ge.png" alt=""> german </a></li>
+										src="../resources/assets/img/icon-img/ge.png" alt=""> german </a></li>
 								<li><a href="#"><img
-										src="../assets/img/icon-img/es.png" alt=""> spanish </a></li>
+										src="../resources/assets/img/icon-img/es.png" alt=""> spanish </a></li>
 							</ul>
 						</div>
 					</div>
@@ -505,7 +505,7 @@ margin-left: 7px;
 			</div>
 		</div>
 		<div class="breadcrumb-area pt-205 pb-210"
-			style="background-image: url(../assets/img/bg/breadcrumb.jpg)">
+			style="background-image: url(../resources/assets/img/bg/breadcrumb.jpg)">
 			<div class="container">
 				<div class="breadcrumb-content">
 					<h2>register</h2>
@@ -618,18 +618,18 @@ margin-left: 7px;
 </div>
 
 	<!-- all js here -->
-	<script src="../assets/js/vendor/jquery-1.12.0.min.js"></script>
-	<script src="../assets/js/popper.js"></script>
-	<script src="../assets/js/bootstrap.min.js"></script>
-	<script src="../assets/js/jquery.magnific-popup.min.js"></script>
-	<script src="../assets/js/isotope.pkgd.min.js"></script>
-	<script src="../assets/js/imagesloaded.pkgd.min.js"></script>
-	<script src="../assets/js/jquery.counterup.min.js"></script>
-	<script src="../assets/js/waypoints.min.js"></script>
-	<script src="../assets/js/slinky.min.js"></script>
-	<script src="../assets/js/ajax-mail.js"></script>
-	<script src="../assets/js/owl.carousel.min.js"></script>
-	<script src="../assets/js/plugins.js"></script>
+	<script src="../resources/assets/js/vendor/jquery-1.12.0.min.js"></script>
+	<script src="../resources/assets/js/popper.js"></script>
+	<script src="../resources/assets/js/bootstrap.min.js"></script>
+	<script src="../resources/assets/js/jquery.magnific-popup.min.js"></script>
+	<script src="../resources/assets/js/isotope.pkgd.min.js"></script>
+	<script src="../resources/assets/js/imagesloaded.pkgd.min.js"></script>
+	<script src="../resources/assets/js/jquery.counterup.min.js"></script>
+	<script src="../resources/assets/js/waypoints.min.js"></script>
+	<script src="../resources/assets/js/slinky.min.js"></script>
+	<script src="../resources/assets/js/ajax-mail.js"></script>
+	<script src="../resources/assets/js/owl.carousel.min.js"></script>
+	<script src="../resources/assets/js/plugins.js"></script>
 	<script type="text/javascript">
 		// grab an element
 		var myElement = document.querySelector(".intelligent-header");
@@ -638,6 +638,6 @@ margin-left: 7px;
 		// initialise
 		headroom.init();
 	</script>
-	<script src="../assets/js/main.js"></script>
+	<script src="../resources/assets/js/main.js"></script>
 </body>
 </html>

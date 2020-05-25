@@ -6,17 +6,17 @@
 <head>
 	<title>main</title>
 		<!-- all css here -->
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="assets/css/animate.css">
-        <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-        <link rel="stylesheet" href="assets/css/slinky.min.css">
-        <link rel="stylesheet" href="assets/css/meanmenu.min.css">
-        <link rel="stylesheet" href="assets/css/slick.css">
-        <link rel="stylesheet" href="assets/css/ionicons.min.css">
-        <link rel="stylesheet" href="assets/css/bundle.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/responsive.css">
+        <link rel="stylesheet" href="resources/assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="resources/assets/css/magnific-popup.css">
+        <link rel="stylesheet" href="resources/assets/css/animate.css">
+        <link rel="stylesheet" href="resources/assets/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="resources/assets/css/slinky.min.css">
+        <link rel="stylesheet" href="resources/assets/css/meanmenu.min.css">
+        <link rel="stylesheet" href="resources/assets/css/slick.css">
+        <link rel="stylesheet" href="resources/assets/css/ionicons.min.css">
+        <link rel="stylesheet" href="resources/assets/css/bundle.css">
+        <link rel="stylesheet" href="resources/assets/css/style.css">
+        <link rel="stylesheet" href="resources/assets/css/responsive.css">
 </head>
 <body>
 <!--[if lt IE 8]>
@@ -33,7 +33,7 @@
 	        <div class="sidebar-logo-menu">
 	            <div class="sidebar-logo">
 	                <a href="/food_market/">
-	                    <img alt="" src="assets/img/logo/logo.png">
+	                    <img alt="" src="resources/assets/img/logo/logo.png">
 	                </a>
 	            </div>
 	            
@@ -72,7 +72,7 @@
 	                                    <li class="menu-pading-none menu-mrg-nn">
 	                                        <div class="mega-item-img">
 	                                            <a href="shop.html">
-	                                                <img alt="" src="assets/img/banner/1.png">
+	                                                <img alt="" src="resources/assets/img/banner/1.png">
 	                                            </a>
 	                                        </div>
 	                                    </li>
@@ -150,7 +150,7 @@
 <!--             <div class="row no-gutters"> -->
 <!--                 <div class="col-lg-3 col-md-6 col-6"> -->
 <!--                     <div class="logo"> -->
-<!--                         <a href="index.html"><img alt="" src="assets/img/logo/logo.png"></a> -->
+<!--                         <a href="index.html"><img alt="" src="resources/assets/img/logo/logo.png"></a> -->
 <!--                     </div> -->
 <!--                 </div> -->
 <!--                 <div class="col-lg-6 menu-none-block menu-center"> -->
@@ -198,7 +198,7 @@
 <!--                                             <li class="menu-pading-none menu-mrg-nn"> -->
 <!--                                                 <div class="mega-item-img"> -->
 <!--                                                     <a href="shop.html"> -->
-<!--                                                         <img alt="" src="assets/img/banner/1.png"> -->
+<!--                                                         <img alt="" src="resources/assets/img/banner/1.png"> -->
 <!--                                                     </a> -->
 <!--                                                 </div> -->
 <!--                                             </li> -->
@@ -354,7 +354,7 @@
             <div class="slider-active owl-carousel owl-loaded owl-drag">
                 
                 
-            <div class="owl-stage-outer"><div class="owl-stage" style="transition:all; width: 3708px; transform: translate3d(-1236px, 0px, 0px);"><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(assets/img/slider/4.jpg)">
+            <div class="owl-stage-outer"><div class="owl-stage" style="transition:all; width: 3708px; transform: translate3d(-1236px, 0px, 0px);"><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(resources/assets/img/slider/4.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-1">
                             <h2 class="animated">KId's toy shop</h2>
@@ -362,7 +362,7 @@
                             <a class="btn-hover slider-btn-toy animated" href="shop-grid-view-sidebar.html">shop now</a>
                         </div>
                     </div>
-                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(assets/img/slider/9.jpg)">
+                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(resources/assets/img/slider/9.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-2">
                             <h2 class="animated">KId's toy shop</h2>
@@ -370,7 +370,7 @@
                             <a class="btn-hover slider-btn-toy animated" href="shop-grid-view-sidebar.html">shop now</a>
                         </div>
                     </div>
-                </div></div><div class="owl-item active" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(assets/img/slider/4.jpg)">
+                </div></div><div class="owl-item active" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(resources/assets/img/slider/4.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-1">
                             <h2 class="animated">KId's toy shop</h2>
@@ -378,7 +378,7 @@
                             <a class="btn-hover slider-btn-toy animated" href="shop-grid-view-sidebar.html">shop now</a>
                         </div>
                     </div>
-                </div></div><div class="owl-item" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(assets/img/slider/9.jpg)">
+                </div></div><div class="owl-item" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(resources/assets/img/slider/9.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-2">
                             <h2 class="animated">KId's toy shop</h2>
@@ -386,7 +386,7 @@
                             <a class="btn-hover slider-btn-toy animated" href="shop-grid-view-sidebar.html">shop now</a>
                         </div>
                     </div>
-                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(assets/img/slider/4.jpg)">
+                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img pt-375" style="background-image: url(resources/assets/img/slider/4.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-1">
                             <h2 class="animated">KId's toy shop</h2>
@@ -394,7 +394,7 @@
                             <a class="btn-hover slider-btn-toy animated" href="shop-grid-view-sidebar.html">shop now</a>
                         </div>
                     </div>
-                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(assets/img/slider/9.jpg)">
+                </div></div><div class="owl-item cloned" style="width: 618px;"><div class="single-slider single-slider-hmtoy bg-img slider-content-style-1 pt-375" style="background-image: url(resources/assets/img/slider/9.jpg)">
                     <div class="single-content-left">
                         <div class="slider-content slider-content-style-toy slider-animated-2">
                             <h2 class="animated">KId's toy shop</h2>
@@ -414,7 +414,7 @@
                         <div class="single-shop-services-all">
                             <div class="single-shop-services mb-30">
                                 <div class="single-shop-img">
-                                    <img alt="" src="assets/img/icon-img/3.png">
+                                    <img alt="" src="resources/assets/img/icon-img/3.png">
                                 </div>
                                 <div class="single-shop-content">
                                     <h5>FREE SHIPPING</h5>
@@ -423,7 +423,7 @@
                             </div>
                             <div class="single-shop-services mb-30">
                                 <div class="single-shop-img">
-                                    <img alt="" src="assets/img/icon-img/4.png">
+                                    <img alt="" src="resources/assets/img/icon-img/4.png">
                                 </div>
                                 <div class="single-shop-content">
                                     <h5>ONLINE SUPPORT</h5>
@@ -432,7 +432,7 @@
                             </div>
                             <div class="single-shop-services mb-30">
                                 <div class="single-shop-img">
-                                    <img alt="" src="assets/img/icon-img/5.png">
+                                    <img alt="" src="resources/assets/img/icon-img/5.png">
                                 </div>
                                 <div class="single-shop-content">
                                     <h5>MONEY RETURN</h5>
@@ -441,7 +441,7 @@
                             </div>
                             <div class="single-shop-services mb-30">
                                 <div class="single-shop-img">
-                                    <img alt="" src="assets/img/icon-img/6.png">
+                                    <img alt="" src="resources/assets/img/icon-img/6.png">
                                 </div>
                                 <div class="single-shop-content">
                                     <h5>MEMBER DISCOUNT</h5>
@@ -456,7 +456,7 @@
             <!-- 하단 목록2(인형 3개) -->
             <div class="banner-area pt-70 pb-100">
                 <div class="single-banner5">
-                    <img alt="" src="assets/img/banner/16.jpg">
+                    <img alt="" src="resources/assets/img/banner/16.jpg">
                     <div class="banner-content-5">
                         <h3>Wooden Toys</h3>
                         <h4>Best Deal &amp; Discounts</h4>
@@ -464,7 +464,7 @@
                     </div>
                 </div>
                 <div class="single-banner5 toy-mrg">
-                    <img alt="" src="assets/img/banner/17.jpg">
+                    <img alt="" src="resources/assets/img/banner/17.jpg">
                     <div class="banner-content-5">
                         <h3>Teddy Bears</h3>
                         <h4>Best Deal &amp; Discounts</h4>
@@ -472,7 +472,7 @@
                     </div>
                 </div>
                 <div class="single-banner5">
-                    <img alt="" src="assets/img/banner/18.jpg">
+                    <img alt="" src="resources/assets/img/banner/18.jpg">
                     <div class="banner-content-5">
                         <h3>Electric Toys</h3>
                         <h4>Best Deal &amp; Discounts</h4>
@@ -492,7 +492,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/1.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/1.jpg"></a>
                                     <span>sale</span>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
@@ -522,7 +522,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/2.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/2.jpg"></a>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
                                         <a title="Quick View" class="animate-right" href="#" data-toggle="modal" data-target="#exampleModal"><i class="ion-ios-eye-outline"></i></a>
@@ -551,7 +551,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/3.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/3.jpg"></a>
                                     <span>sale</span>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
@@ -581,7 +581,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/4.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/4.jpg"></a>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
                                         <a title="Quick View" class="animate-right" href="#" data-toggle="modal" data-target="#exampleModal"><i class="ion-ios-eye-outline"></i></a>
@@ -610,7 +610,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/5.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/5.jpg"></a>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
                                         <a title="Quick View" class="animate-right" href="#" data-toggle="modal" data-target="#exampleModal"><i class="ion-ios-eye-outline"></i></a>
@@ -639,7 +639,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/6.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/6.jpg"></a>
                                     <span>sale</span>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
@@ -669,7 +669,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/7.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/7.jpg"></a>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
                                         <a title="Quick View" class="animate-right" href="#" data-toggle="modal" data-target="#exampleModal"><i class="ion-ios-eye-outline"></i></a>
@@ -698,7 +698,7 @@
                         <div class="col-md-6 col-lg-4 col-xl-3 col-12">
                             <div class="single-product mb-45">
                                 <div class="product-img">
-                                    <a href="#"><img alt="" src="assets/img/product/toys/8.jpg"></a>
+                                    <a href="#"><img alt="" src="resources/assets/img/product/toys/8.jpg"></a>
                                     <span>sale</span>
                                     <div class="product-action">
                                         <a title="Wishlist" class="animate-left" href="#"><i class="ion-ios-heart-outline"></i></a>
@@ -739,27 +739,27 @@
                 <div class="container-fluid p-0">
                     <div class="brand-logo-active owl-carousel owl-loaded owl-drag">
                     <div class="owl-stage-outer"><div class="owl-stage" style="transition:all; width: 2120px; transform: translate3d(-578px, 0px, 0px);"><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/3.png">
+                            <img alt="" src="resources/assets/img/brand-logo/3.png">
                         </div></div><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/4.png">
+                            <img alt="" src="resources/assets/img/brand-logo/4.png">
                         </div></div><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/5.png">
+                            <img alt="" src="resources/assets/img/brand-logo/5.png">
                         </div></div><div class="owl-item active" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/1.png">
+                            <img alt="" src="resources/assets/img/brand-logo/1.png">
                         </div></div><div class="owl-item active" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/2.png">
+                            <img alt="" src="resources/assets/img/brand-logo/2.png">
                         </div></div><div class="owl-item active" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/3.png">
+                            <img alt="" src="resources/assets/img/brand-logo/3.png">
                         </div></div><div class="owl-item" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/4.png">
+                            <img alt="" src="resources/assets/img/brand-logo/4.png">
                         </div></div><div class="owl-item" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/5.png">
+                            <img alt="" src="resources/assets/img/brand-logo/5.png">
                         </div></div><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/1.png">
+                            <img alt="" src="resources/assets/img/brand-logo/1.png">
                         </div></div><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/2.png">
+                            <img alt="" src="resources/assets/img/brand-logo/2.png">
                         </div></div><div class="owl-item cloned" style="width: 192.66px;"><div class="single-logo">
-                            <img alt="" src="assets/img/brand-logo/3.png">
+                            <img alt="" src="resources/assets/img/brand-logo/3.png">
                         </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
 		               </div>
 		           </div>
@@ -784,7 +784,7 @@
                     <ul>
                         <li class="single-product-cart">
                             <div class="cart-img">
-                                <a href="#"><img alt="" src="assets/img/cart/1.jpg"></a>
+                                <a href="#"><img alt="" src="resources/assets/img/cart/1.jpg"></a>
                             </div>
                             <div class="cart-title">
                                 <h3><a href="#"> HANDCRAFTED MUG</a></h3>
@@ -796,7 +796,7 @@
                         </li>
                         <li class="single-product-cart">
                             <div class="cart-img">
-                                <a href="#"><img alt="" src="assets/img/cart/2.jpg"></a>
+                                <a href="#"><img alt="" src="resources/assets/img/cart/2.jpg"></a>
                             </div>
                             <div class="cart-title">
                                 <h3><a href="#"> HANDCRAFTED MUG</a></h3>
@@ -808,7 +808,7 @@
                         </li>
                         <li class="single-product-cart">
                             <div class="cart-img">
-                                <a href="#"><img alt="" src="assets/img/cart/3.jpg"></a>
+                                <a href="#"><img alt="" src="resources/assets/img/cart/3.jpg"></a>
                             </div>
                             <div class="cart-title">
                                 <h3><a href="#"> HANDCRAFTED MUG</a></h3>
@@ -873,15 +873,15 @@
                 </div>
                 <div class="single-currency-language-account">
                     <div class="cur-lang-acc-title">
-                        <h4>Language: <span><img alt="" src="assets/img/icon-img/english.png"> English </span></h4>
+                        <h4>Language: <span><img alt="" src="resources/assets/img/icon-img/english.png"> English </span></h4>
                     </div>
                     <div class="cur-lang-acc-dropdown">
                         <ul>
-                            <li><a href="#"><img alt="" src="assets/img/icon-img/english.png"> English </a></li>
-                            <li><a href="#"><img alt="" src="assets/img/icon-img/es.png"> spanish </a></li>
-                            <li><a href="#"><img alt="" src="assets/img/icon-img/fr.png"> french </a></li>
-                            <li><a href="#"><img alt="" src="assets/img/icon-img/ge.png"> german </a></li>
-                            <li><a href="#"><img alt="" src="assets/img/icon-img/es.png"> spanish </a></li>
+                            <li><a href="#"><img alt="" src="resources/assets/img/icon-img/english.png"> English </a></li>
+                            <li><a href="#"><img alt="" src="resources/assets/img/icon-img/es.png"> spanish </a></li>
+                            <li><a href="#"><img alt="" src="resources/assets/img/icon-img/fr.png"> french </a></li>
+                            <li><a href="#"><img alt="" src="resources/assets/img/icon-img/ge.png"> german </a></li>
+                            <li><a href="#"><img alt="" src="resources/assets/img/icon-img/es.png"> spanish </a></li>
                         </ul>
                     </div>
                 </div>
@@ -917,25 +917,25 @@
 <!--                         <div class="quick-view-learg-img"> -->
 <!--                             <div class="quick-view-tab-content tab-content"> -->
 <!--                                 <div class="tab-pane active show fade" id="modal1" role="tabpanel"> -->
-<!--                                     <img alt="" src="assets/img/quick-view/l1.jpg"> -->
+<!--                                     <img alt="" src="resources/assets/img/quick-view/l1.jpg"> -->
 <!--                                 </div> -->
 <!--                                 <div class="tab-pane fade" id="modal2" role="tabpanel"> -->
-<!--                                     <img alt="" src="assets/img/quick-view/l2.jpg"> -->
+<!--                                     <img alt="" src="resources/assets/img/quick-view/l2.jpg"> -->
 <!--                                 </div> -->
 <!--                                 <div class="tab-pane fade" id="modal3" role="tabpanel"> -->
-<!--                                     <img alt="" src="assets/img/quick-view/l3.jpg"> -->
+<!--                                     <img alt="" src="resources/assets/img/quick-view/l3.jpg"> -->
 <!--                                 </div> -->
 <!--                             </div> -->
 <!--                         </div> -->
 <!--                         <div class="quick-view-list nav" role="tablist"> -->
 <!--                             <a class="active" role="tab" aria-selected="true" href="#modal1" data-toggle="tab"> -->
-<!--                                 <img alt="" src="assets/img/quick-view/s1.jpg"> -->
+<!--                                 <img alt="" src="resources/assets/img/quick-view/s1.jpg"> -->
 <!--                             </a> -->
 <!--                             <a role="tab" aria-selected="false" href="#modal2" data-toggle="tab"> -->
-<!--                                 <img alt="" src="assets/img/quick-view/s2.jpg"> -->
+<!--                                 <img alt="" src="resources/assets/img/quick-view/s2.jpg"> -->
 <!--                             </a> -->
 <!--                             <a role="tab" aria-selected="false" href="#modal3" data-toggle="tab"> -->
-<!--                                 <img alt="" src="assets/img/quick-view/s3.jpg"> -->
+<!--                                 <img alt="" src="resources/assets/img/quick-view/s3.jpg"> -->
 <!--                             </a> -->
 <!--                         </div> -->
 <!--                     </div> -->
@@ -1006,19 +1006,19 @@
 		
 		
 <!-- all js here -->
-<script src="assets/js/vendor/jquery-1.12.0.min.js"></script>
-<script src="assets/js/popper.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/isotope.pkgd.min.js"></script>
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/jquery.counterup.min.js"></script>
-<script src="assets/js/waypoints.min.js"></script>
-<script src="assets/js/slinky.min.js"></script>
-<script src="assets/js/ajax-mail.js"></script>
-<script src="assets/js/owl.carousel.min.js"></script>
-<script src="assets/js/plugins.js"></script>
-<script src="assets/js/main.js"></script><a id="scrollUp" style="display: none; position: fixed; z-index: 2147483647;" href="#top"><i class="ion-arrow-up-c"></i></a>
+<script src="resources/assets/js/vendor/jquery-1.12.0.min.js"></script>
+<script src="resources/assets/js/popper.js"></script>
+<script src="resources/assets/js/bootstrap.min.js"></script>
+<script src="resources/assets/js/jquery.magnific-popup.min.js"></script>
+<script src="resources/assets/js/isotope.pkgd.min.js"></script>
+<script src="resources/assets/js/imagesloaded.pkgd.min.js"></script>
+<script src="resources/assets/js/jquery.counterup.min.js"></script>
+<script src="resources/assets/js/waypoints.min.js"></script>
+<script src="resources/assets/js/slinky.min.js"></script>
+<script src="resources/assets/js/ajax-mail.js"></script>
+<script src="resources/assets/js/owl.carousel.min.js"></script>
+<script src="resources/assets/js/plugins.js"></script>
+<script src="resources/assets/js/main.js"></script><a id="scrollUp" style="display: none; position: fixed; z-index: 2147483647;" href="#top"><i class="ion-arrow-up-c"></i></a>
 
 
 </body>
